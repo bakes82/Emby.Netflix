@@ -1,0 +1,9 @@
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\bin\Debug\netstandard2.0\Netflix.deps.json
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\bin\Debug\netstandard2.0\Netflix.dll
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\bin\Debug\netstandard2.0\Netflix.pdb
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\obj\Debug\netstandard2.0\Netflix.csprojAssemblyReference.cache
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\obj\Debug\netstandard2.0\Netflix.AssemblyInfoInputs.cache
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\obj\Debug\netstandard2.0\Netflix.AssemblyInfo.cs
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\obj\Debug\netstandard2.0\Netflix.csproj.CoreCompileInputs.cache
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\obj\Debug\netstandard2.0\Netflix.dll
+C:\Users\bradl\Desktop\Emby.Netflix\Netflix\obj\Debug\netstandard2.0\Netflix.pdb

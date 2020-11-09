@@ -1,9 +1,0 @@
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\bin\Debug\netstandard2.0\AppleTv.deps.json
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\bin\Debug\netstandard2.0\AppleTv.dll
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\bin\Debug\netstandard2.0\AppleTv.pdb
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\obj\Debug\netstandard2.0\AppleTv.csprojAssemblyReference.cache
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\obj\Debug\netstandard2.0\AppleTv.AssemblyInfoInputs.cache
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\obj\Debug\netstandard2.0\AppleTv.AssemblyInfo.cs
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\obj\Debug\netstandard2.0\AppleTv.csproj.CoreCompileInputs.cache
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\obj\Debug\netstandard2.0\AppleTv.dll
-C:\Users\bradl\Desktop\Emby.AppleTV\AppleTv\obj\Debug\netstandard2.0\AppleTv.pdb
